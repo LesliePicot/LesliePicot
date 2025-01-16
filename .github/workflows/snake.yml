@@ -1,4 +1,4 @@
-name: generate animation
+name: GitHub Snake Game
 
 on:
   # run automatically every 24 hours
