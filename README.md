@@ -7,7 +7,7 @@
 
 🐍 **Mission du jour** : Dompter les serpents de données et révéler la vérité enfouie !
 
-🏴‍☠️ "Les véritables trésors ne dorment pas dans des archives… Ils brillent dans des dashboards interactifs !"
+🏴 _Les véritables trésors ne dorment pas dans des archives… Ils brillent dans des dashboards interactifs !_
 
 <br clear="both">
 
