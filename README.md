@@ -1,9 +1,14 @@
-### Hi there 👋
 
-This is my professional Github.
+### 👋 Bienvenue sur mon GitHub !  
 
+🔦 **Aventurière des données**
+ 
+👀 En expédition à travers les datasets, je traque les insights perdus, déjoue les pièges des données erronées et révèle des trésors cachés. 💎
 
-###
+🐍 **Mission du jour** : Dompter les serpents de données et révéler la vérité enfouie !
+
+🏴‍☠️ "Les véritables trésors ne dorment pas dans des archives… Ils brillent dans des dashboards interactifs !"
+
 <br clear="both">
 
 <picture>
